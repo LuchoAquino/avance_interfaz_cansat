@@ -12,3 +12,5 @@ if __name__ == "__main__":
     app.exec_()
 
 print("Hola a todos")
+
+print("Mi novia es daniela")
