@@ -10,3 +10,5 @@ if __name__ == "__main__":
     window = MiVentana()
     window.show()
     app.exec_()
+
+print("Hola a todos")
